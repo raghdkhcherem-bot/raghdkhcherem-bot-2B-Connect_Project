@@ -1,1 +1,1 @@
-ID; Nom; Prénom; Prix; Stock; 
+ID; Nom; Prénom; Prix; Stock; Date_Transaction : Date;
