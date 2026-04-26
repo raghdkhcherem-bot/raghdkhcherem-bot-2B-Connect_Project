@@ -1,1 +1,1 @@
-ID; Nom; Prénom; Prix; Stock; Date_Transaction : Date; Format_Prix : Euros_Optionnel
+ID; Nom; Prénom; Prix; Stock; Date_Transaction : Date; Format_Prix :  TND_OBLIGATOIRE
