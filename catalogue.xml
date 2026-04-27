@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogue>
+
+    <produit>
+        <id>1</id>
+        <nom>Chocolat noir 70%</nom>
+        <categorie>Confiserie</categorie>
+        <prix>5.500 TND</prix>
+        <stock>25</stock>
+    </produit>
+
+    <produit>
+        <id>2</id>
+        <nom>Biscuit vanille</nom>
+        <categorie>Snack</categorie>
+        <prix>2.000 TND</prix>
+        <stock>60</stock>
+    </produit>
+
+</catalogue>
